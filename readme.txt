@@ -1,4 +1,4 @@
-Dina web here : [click here](https://alfianrs.github.io/dina/)
+Dina web here : [click here](https://alfianrsa.github.io/dina/)
 
 Thank you for using our template!
 
